@@ -1,4 +1,4 @@
-# My Responsive Website
+# WebAura
 
 This project is a **modern, responsive website** built using **HTML5** and **CSS3**.  
 It demonstrates how to design flexible layouts that adapt smoothly across devices — desktop, tablet, and mobile — using **media queries** and clean design principles.
